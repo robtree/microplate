@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Microplate Challenge by Rob Rountree</title>
+  <style>
+    :root {
+      --white: #FFFFFF;
+      --black: #000000;
+      --grey-light: #CBCBCB;
+      --grey-lighter: #ECECEC;
+      --grey-lightest: #F7F7F7;
+    }
+
+    html,
+    body {
+      background-color: var(--white);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      height: 100%;
+      margin: 0;
+    }
+      @media (min-width: 768px) {
+        html, body {
+          background-color: var(--grey-lightest);
+        }
+      }
+
+    .container {
+      margin: 0 auto;
+      width: 1440px;
+    }
+
+    .main {
+      padding: 0 1rem;
+    }
+
+    .footer {
+      font-size: 0.75rem;
+      font-style: italic;
+      text-align: center;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .microplate {
+      display: flex;
+      flex-flow: row wrap;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .well {
+      border: 1px solid var(--grey-light);
+      border-radius: 50%;
+      box-sizing: border-box;
+      position: relative;
+      text-align: center;
+      height: 60px;
+      width: calc(100% / 24);
+    }
+      .well.cpd { background-color: white; }
+      .well.max { background-color: var(--grey-light); }
+      .well.min { background-color: var(--grey-lighter); }
+
+    .well-id {
+      display: block;
+      font-size: 0.625rem;
+      margin: 3px 0 8px;
+    }
+
+    .well-drug {
+      display: block;
+      font-size: 1rem;
+      font-weight: 700;
+    }
+
+    .slide {
+      margin: 1rem 0;
+      text-align: center;
+    }
+    
+    .slide input {
+      width: 100%;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <header class="container">
+    <h1>Microplate Challenge</h1>
+  </header>
+
+  <main class="container main">
+    <div id="app">
+      <div class="slide">
+        <p>Show only wells scoring below {{ visibilityThreshold.toFixed(2) }}</p>
+        <input type="range" :min="Math.floor(minData * 100)" :max="Math.ceil(maxData * 100)" value="100" class="slider" v-model="threshold">
+      </div>
+      <ul class="microplate">
+        <li v-for="well in microplate"
+            class="well"
+            :class="well.well_type"
+            :key="well.well_id"
+            :title="well.data">
+          <span class="well-id">{{ well.well_id }}</span>
+          <span class="well-drug" v-if="wellVisibility(well.data)">{{ stripDrugPrefix(well.drug_Id) }}</span>
+        </li>
+      </ul>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+  <script>
+    var app = new Vue({
+      el: '#app',
+      data: {
+        threshold: 120,
+        microplate: [],
+      },
+      computed: {
+        minData() {
+          return Math.min.apply(Math, this.microplate.map(function(o) { return o.data; }));
+        },
+        maxData() {
+          return Math.max.apply(Math, this.microplate.map(function(o) { return o.data; }));
+        },
+        visibilityThreshold() {
+          return (this.threshold / 100); 
+        }
+      },
+      methods: {
+        wellVisibility(data) {
+          return data < this.visibilityThreshold;
+        },
+        stripDrugPrefix(id) {
+          return id.startsWith('DRUG_') ? id.substring(5) : id;
+        },
+      },
+      mounted() {
+        fetch('./code_test.json')
+          .then(response => response.json())
+          .then(data => this.microplate = data);
+      },
+    })
+  </script>
+
+</body>
+</html>

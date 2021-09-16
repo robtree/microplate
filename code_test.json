@@ -1,0 +1,3074 @@
+[
+ {
+   "row_i": 0,
+   "column_i": 0,
+   "well_id": "A1",
+   "data": 0.723363185,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 0,
+   "column_i": 1,
+   "well_id": "A2",
+   "data": 1.209196198,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 0,
+   "column_i": 2,
+   "well_id": "A3",
+   "data": 1.156369874,
+   "drug_Id": "DRUG_2",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 3,
+   "well_id": "A4",
+   "data": 1.102301874,
+   "drug_Id": "DRUG_3",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 4,
+   "well_id": "A5",
+   "data": 1.114624775,
+   "drug_Id": "DRUG_4",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 5,
+   "well_id": "A6",
+   "data": 1.227204438,
+   "drug_Id": "DRUG_5",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 6,
+   "well_id": "A7",
+   "data": 1.279610353,
+   "drug_Id": "DRUG_6",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 7,
+   "well_id": "A8",
+   "data": 1.217955957,
+   "drug_Id": "DRUG_7",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 8,
+   "well_id": "A9",
+   "data": 1.30140571,
+   "drug_Id": "DRUG_8",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 9,
+   "well_id": "A10",
+   "data": 1.207938833,
+   "drug_Id": "DRUG_9",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 10,
+   "well_id": "A11",
+   "data": 1.207898786,
+   "drug_Id": "DRUG_10",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 11,
+   "well_id": "A12",
+   "data": 1.130270879,
+   "drug_Id": "DRUG_11",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 12,
+   "well_id": "A13",
+   "data": 1.215275311,
+   "drug_Id": "DRUG_12",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 13,
+   "well_id": "A14",
+   "data": 1.292780304,
+   "drug_Id": "DRUG_13",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 14,
+   "well_id": "A15",
+   "data": 1.224397484,
+   "drug_Id": "DRUG_14",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 15,
+   "well_id": "A16",
+   "data": 1.288363942,
+   "drug_Id": "DRUG_15",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 16,
+   "well_id": "A17",
+   "data": 1.252116586,
+   "drug_Id": "DRUG_16",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 17,
+   "well_id": "A18",
+   "data": 1.276800883,
+   "drug_Id": "DRUG_17",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 18,
+   "well_id": "A19",
+   "data": 1.206567906,
+   "drug_Id": "DRUG_18",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 19,
+   "well_id": "A20",
+   "data": 1.280480006,
+   "drug_Id": "DRUG_19",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 20,
+   "well_id": "A21",
+   "data": 1.270436616,
+   "drug_Id": "DRUG_20",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 21,
+   "well_id": "A22",
+   "data": 1.267013025,
+   "drug_Id": "DRUG_21",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 0,
+   "column_i": 22,
+   "well_id": "A23",
+   "data": 0.736267707,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 0,
+   "column_i": 23,
+   "well_id": "A24",
+   "data": 1.20702754,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 1,
+   "column_i": 0,
+   "well_id": "B1",
+   "data": 0.752556548,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 1,
+   "column_i": 1,
+   "well_id": "B2",
+   "data": 1.284257164,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 1,
+   "column_i": 2,
+   "well_id": "B3",
+   "data": 1.284488262,
+   "drug_Id": "DRUG_22",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 3,
+   "well_id": "B4",
+   "data": 1.303547447,
+   "drug_Id": "DRUG_23",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 4,
+   "well_id": "B5",
+   "data": 1.323299043,
+   "drug_Id": "DRUG_24",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 5,
+   "well_id": "B6",
+   "data": 1.282659023,
+   "drug_Id": "DRUG_25",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 6,
+   "well_id": "B7",
+   "data": 1.008548843,
+   "drug_Id": "DRUG_26",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 7,
+   "well_id": "B8",
+   "data": 1.285811872,
+   "drug_Id": "DRUG_27",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 8,
+   "well_id": "B9",
+   "data": 1.336649909,
+   "drug_Id": "DRUG_28",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 9,
+   "well_id": "B10",
+   "data": 1.27787517,
+   "drug_Id": "DRUG_29",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 10,
+   "well_id": "B11",
+   "data": 1.325992299,
+   "drug_Id": "DRUG_30",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 11,
+   "well_id": "B12",
+   "data": 1.279572338,
+   "drug_Id": "DRUG_31",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 12,
+   "well_id": "B13",
+   "data": 1.223906793,
+   "drug_Id": "DRUG_32",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 13,
+   "well_id": "B14",
+   "data": 1.277596413,
+   "drug_Id": "DRUG_33",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 14,
+   "well_id": "B15",
+   "data": 1.306067061,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 15,
+   "well_id": "B16",
+   "data": 1.262334742,
+   "drug_Id": "DRUG_34",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 16,
+   "well_id": "B17",
+   "data": 1.253074667,
+   "drug_Id": "DRUG_35",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 17,
+   "well_id": "B18",
+   "data": 1.261821618,
+   "drug_Id": "DRUG_36",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 18,
+   "well_id": "B19",
+   "data": 1.282262985,
+   "drug_Id": "DRUG_37",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 19,
+   "well_id": "B20",
+   "data": 1.339078901,
+   "drug_Id": "DRUG_38",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 20,
+   "well_id": "B21",
+   "data": 1.354540608,
+   "drug_Id": "DRUG_39",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 21,
+   "well_id": "B22",
+   "data": 1.302214183,
+   "drug_Id": "DRUG_40",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 1,
+   "column_i": 22,
+   "well_id": "B23",
+   "data": 0.757178074,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 1,
+   "column_i": 23,
+   "well_id": "B24",
+   "data": 1.254504969,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 2,
+   "column_i": 0,
+   "well_id": "C1",
+   "data": 0.744799432,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 2,
+   "column_i": 1,
+   "well_id": "C2",
+   "data": 1.274653653,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 2,
+   "column_i": 2,
+   "well_id": "C3",
+   "data": 1.254129686,
+   "drug_Id": "DRUG_41",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 3,
+   "well_id": "C4",
+   "data": 1.278579284,
+   "drug_Id": "DRUG_42",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 4,
+   "well_id": "C5",
+   "data": 0.95970078,
+   "drug_Id": "DRUG_43",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 5,
+   "well_id": "C6",
+   "data": 0.983057281,
+   "drug_Id": "DRUG_44",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 6,
+   "well_id": "C7",
+   "data": 1.338233878,
+   "drug_Id": "DRUG_45",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 7,
+   "well_id": "C8",
+   "data": 1.294218568,
+   "drug_Id": "DRUG_46",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 8,
+   "well_id": "C9",
+   "data": 1.290214415,
+   "drug_Id": "DRUG_47",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 9,
+   "well_id": "C10",
+   "data": 1.30752184,
+   "drug_Id": "DRUG_48",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 10,
+   "well_id": "C11",
+   "data": 1.268170186,
+   "drug_Id": "DRUG_49",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 11,
+   "well_id": "C12",
+   "data": 1.337568448,
+   "drug_Id": "DRUG_50",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 12,
+   "well_id": "C13",
+   "data": 1.256201132,
+   "drug_Id": "DRUG_51",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 13,
+   "well_id": "C14",
+   "data": 1.261959074,
+   "drug_Id": "DRUG_52",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 14,
+   "well_id": "C15",
+   "data": 1.330961758,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 15,
+   "well_id": "C16",
+   "data": 1.31627907,
+   "drug_Id": "DRUG_53",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 16,
+   "well_id": "C17",
+   "data": 1.285321665,
+   "drug_Id": "DRUG_54",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 17,
+   "well_id": "C18",
+   "data": 1.323740726,
+   "drug_Id": "DRUG_55",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 18,
+   "well_id": "C19",
+   "data": 1.339950372,
+   "drug_Id": "DRUG_56",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 19,
+   "well_id": "C20",
+   "data": 1.286009506,
+   "drug_Id": "DRUG_57",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 20,
+   "well_id": "C21",
+   "data": 1.306761519,
+   "drug_Id": "DRUG_58",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 21,
+   "well_id": "C22",
+   "data": 1.26871667,
+   "drug_Id": "DRUG_59",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 2,
+   "column_i": 22,
+   "well_id": "C23",
+   "data": 0.769873631,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 2,
+   "column_i": 23,
+   "well_id": "C24",
+   "data": 1.29769703,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 3,
+   "column_i": 0,
+   "well_id": "D1",
+   "data": 0.721078285,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 3,
+   "column_i": 1,
+   "well_id": "D2",
+   "data": 1.274330709,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 3,
+   "column_i": 2,
+   "well_id": "D3",
+   "data": 0.921224117,
+   "drug_Id": "DRUG_60",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 3,
+   "well_id": "D4",
+   "data": 1.299608271,
+   "drug_Id": "DRUG_61",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 4,
+   "well_id": "D5",
+   "data": 1.27961165,
+   "drug_Id": "DRUG_62",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 5,
+   "well_id": "D6",
+   "data": 1.293462746,
+   "drug_Id": "DRUG_63",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 6,
+   "well_id": "D7",
+   "data": 1.303031307,
+   "drug_Id": "DRUG_64",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 7,
+   "well_id": "D8",
+   "data": 0.95970915,
+   "drug_Id": "DRUG_65",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 8,
+   "well_id": "D9",
+   "data": 1.02204469,
+   "drug_Id": "DRUG_66",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 9,
+   "well_id": "D10",
+   "data": 1.252814077,
+   "drug_Id": "DRUG_67",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 10,
+   "well_id": "D11",
+   "data": 1.313290103,
+   "drug_Id": "DRUG_68",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 11,
+   "well_id": "D12",
+   "data": 1.061860351,
+   "drug_Id": "DRUG_69",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 12,
+   "well_id": "D13",
+   "data": 1.260576551,
+   "drug_Id": "DRUG_70",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 13,
+   "well_id": "D14",
+   "data": 1.242453109,
+   "drug_Id": "DRUG_71",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 14,
+   "well_id": "D15",
+   "data": 1.277008568,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 15,
+   "well_id": "D16",
+   "data": 1.287570213,
+   "drug_Id": "DRUG_72",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 16,
+   "well_id": "D17",
+   "data": 1.289369298,
+   "drug_Id": "DRUG_73",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 17,
+   "well_id": "D18",
+   "data": 1.349217155,
+   "drug_Id": "DRUG_74",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 18,
+   "well_id": "D19",
+   "data": 1.264432572,
+   "drug_Id": "DRUG_75",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 19,
+   "well_id": "D20",
+   "data": 1.312224154,
+   "drug_Id": "DRUG_76",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 20,
+   "well_id": "D21",
+   "data": 1.20483871,
+   "drug_Id": "DRUG_77",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 21,
+   "well_id": "D22",
+   "data": 1.283775653,
+   "drug_Id": "DRUG_78",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 3,
+   "column_i": 22,
+   "well_id": "D23",
+   "data": 0.747962727,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 3,
+   "column_i": 23,
+   "well_id": "D24",
+   "data": 1.262482051,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 4,
+   "column_i": 0,
+   "well_id": "E1",
+   "data": 0.748901757,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 4,
+   "column_i": 1,
+   "well_id": "E2",
+   "data": 1.295870293,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 4,
+   "column_i": 2,
+   "well_id": "E3",
+   "data": 0.910980404,
+   "drug_Id": "DRUG_79",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 3,
+   "well_id": "E4",
+   "data": 1.300838407,
+   "drug_Id": "DRUG_80",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 4,
+   "well_id": "E5",
+   "data": 1.300402756,
+   "drug_Id": "DRUG_81",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 5,
+   "well_id": "E6",
+   "data": 1.329612724,
+   "drug_Id": "DRUG_82",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 6,
+   "well_id": "E7",
+   "data": 1.306015607,
+   "drug_Id": "DRUG_83",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 7,
+   "well_id": "E8",
+   "data": 1.313886271,
+   "drug_Id": "DRUG_84",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 8,
+   "well_id": "E9",
+   "data": 1.207096774,
+   "drug_Id": "DRUG_85",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 9,
+   "well_id": "E10",
+   "data": 1.358975166,
+   "drug_Id": "DRUG_86",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 10,
+   "well_id": "E11",
+   "data": 1.301601482,
+   "drug_Id": "DRUG_87",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 11,
+   "well_id": "E12",
+   "data": 1.181454893,
+   "drug_Id": "DRUG_88",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 12,
+   "well_id": "E13",
+   "data": 0.968103037,
+   "drug_Id": "DRUG_89",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 13,
+   "well_id": "E14",
+   "data": 1.295583127,
+   "drug_Id": "DRUG_90",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 14,
+   "well_id": "E15",
+   "data": 1.302245581,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 15,
+   "well_id": "E16",
+   "data": 1.377482045,
+   "drug_Id": "DRUG_91",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 16,
+   "well_id": "E17",
+   "data": 1.300730073,
+   "drug_Id": "DRUG_92",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 17,
+   "well_id": "E18",
+   "data": 1.31659257,
+   "drug_Id": "DRUG_93",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 18,
+   "well_id": "E19",
+   "data": 1.306278916,
+   "drug_Id": "DRUG_94",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 19,
+   "well_id": "E20",
+   "data": 1.339361986,
+   "drug_Id": "DRUG_95",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 20,
+   "well_id": "E21",
+   "data": 1.323282288,
+   "drug_Id": "DRUG_96",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 21,
+   "well_id": "E22",
+   "data": 1.284330104,
+   "drug_Id": "DRUG_97",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 4,
+   "column_i": 22,
+   "well_id": "E23",
+   "data": 0.766916021,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 4,
+   "column_i": 23,
+   "well_id": "E24",
+   "data": 1.265956607,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 5,
+   "column_i": 0,
+   "well_id": "F1",
+   "data": 0.733880422,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 5,
+   "column_i": 1,
+   "well_id": "F2",
+   "data": 1.293842817,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 5,
+   "column_i": 2,
+   "well_id": "F3",
+   "data": 1.267420141,
+   "drug_Id": "DRUG_98",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 3,
+   "well_id": "F4",
+   "data": 1.363281634,
+   "drug_Id": "DRUG_99",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 4,
+   "well_id": "F5",
+   "data": 1.318692028,
+   "drug_Id": "DRUG_100",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 5,
+   "well_id": "F6",
+   "data": 1.322660356,
+   "drug_Id": "DRUG_101",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 6,
+   "well_id": "F7",
+   "data": 1.338510343,
+   "drug_Id": "DRUG_102",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 7,
+   "well_id": "F8",
+   "data": 1.286511106,
+   "drug_Id": "DRUG_103",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 8,
+   "well_id": "F9",
+   "data": 1.125861793,
+   "drug_Id": "DRUG_104",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 9,
+   "well_id": "F10",
+   "data": 1.105135875,
+   "drug_Id": "DRUG_105",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 10,
+   "well_id": "F11",
+   "data": 1.294133697,
+   "drug_Id": "DRUG_106",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 11,
+   "well_id": "F12",
+   "data": 1.299274813,
+   "drug_Id": "DRUG_107",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 12,
+   "well_id": "F13",
+   "data": 1.288446215,
+   "drug_Id": "DRUG_108",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 13,
+   "well_id": "F14",
+   "data": 1.296915003,
+   "drug_Id": "DRUG_109",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 14,
+   "well_id": "F15",
+   "data": 1.265626993,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 15,
+   "well_id": "F16",
+   "data": 1.319886217,
+   "drug_Id": "DRUG_110",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 16,
+   "well_id": "F17",
+   "data": 1.31035059,
+   "drug_Id": "DRUG_111",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 17,
+   "well_id": "F18",
+   "data": 1.301670379,
+   "drug_Id": "DRUG_112",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 18,
+   "well_id": "F19",
+   "data": 1.349544277,
+   "drug_Id": "DRUG_113",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 19,
+   "well_id": "F20",
+   "data": 1.343921556,
+   "drug_Id": "DRUG_114",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 20,
+   "well_id": "F21",
+   "data": 1.317666592,
+   "drug_Id": "DRUG_115",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 21,
+   "well_id": "F22",
+   "data": 1.311751332,
+   "drug_Id": "DRUG_116",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 5,
+   "column_i": 22,
+   "well_id": "F23",
+   "data": 0.761348284,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 5,
+   "column_i": 23,
+   "well_id": "F24",
+   "data": 1.263139357,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 6,
+   "column_i": 0,
+   "well_id": "G1",
+   "data": 0.720018081,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 6,
+   "column_i": 1,
+   "well_id": "G2",
+   "data": 1.326070118,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 6,
+   "column_i": 2,
+   "well_id": "G3",
+   "data": 1.291599379,
+   "drug_Id": "DRUG_117",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 3,
+   "well_id": "G4",
+   "data": 1.355279297,
+   "drug_Id": "DRUG_118",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 4,
+   "well_id": "G5",
+   "data": 1.336963201,
+   "drug_Id": "DRUG_119",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 5,
+   "well_id": "G6",
+   "data": 1.309458643,
+   "drug_Id": "DRUG_120",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 6,
+   "well_id": "G7",
+   "data": 1.331530374,
+   "drug_Id": "DRUG_121",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 7,
+   "well_id": "G8",
+   "data": 1.255697836,
+   "drug_Id": "DRUG_122",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 8,
+   "well_id": "G9",
+   "data": 1.220153784,
+   "drug_Id": "DRUG_123",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 9,
+   "well_id": "G10",
+   "data": 1.267659715,
+   "drug_Id": "DRUG_124",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 10,
+   "well_id": "G11",
+   "data": 1.311511849,
+   "drug_Id": "DRUG_125",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 11,
+   "well_id": "G12",
+   "data": 1.35877979,
+   "drug_Id": "DRUG_126",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 12,
+   "well_id": "G13",
+   "data": 1.410836653,
+   "drug_Id": "DRUG_127",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 13,
+   "well_id": "G14",
+   "data": 1.322192329,
+   "drug_Id": "DRUG_128",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 14,
+   "well_id": "G15",
+   "data": 1.275377834,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 15,
+   "well_id": "G16",
+   "data": 1.295722812,
+   "drug_Id": "DRUG_129",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 16,
+   "well_id": "G17",
+   "data": 1.317879883,
+   "drug_Id": "DRUG_130",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 17,
+   "well_id": "G18",
+   "data": 1.295848507,
+   "drug_Id": "DRUG_131",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 18,
+   "well_id": "G19",
+   "data": 1.258844146,
+   "drug_Id": "DRUG_132",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 19,
+   "well_id": "G20",
+   "data": 1.357975722,
+   "drug_Id": "DRUG_133",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 20,
+   "well_id": "G21",
+   "data": 1.326677722,
+   "drug_Id": "DRUG_134",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 21,
+   "well_id": "G22",
+   "data": 1.327588023,
+   "drug_Id": "DRUG_135",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 6,
+   "column_i": 22,
+   "well_id": "G23",
+   "data": 0.771110565,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 6,
+   "column_i": 23,
+   "well_id": "G24",
+   "data": 1.271933355,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 7,
+   "column_i": 0,
+   "well_id": "H1",
+   "data": 0.701499563,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 7,
+   "column_i": 1,
+   "well_id": "H2",
+   "data": 1.280227499,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 7,
+   "column_i": 2,
+   "well_id": "H3",
+   "data": 1.244232714,
+   "drug_Id": "DRUG_136",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 3,
+   "well_id": "H4",
+   "data": 1.313241978,
+   "drug_Id": "DRUG_137",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 4,
+   "well_id": "H5",
+   "data": 1.34592647,
+   "drug_Id": "DRUG_138",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 5,
+   "well_id": "H6",
+   "data": 1.285672822,
+   "drug_Id": "DRUG_139",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 6,
+   "well_id": "H7",
+   "data": 1.346923904,
+   "drug_Id": "DRUG_140",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 7,
+   "well_id": "H8",
+   "data": 1.316658493,
+   "drug_Id": "DRUG_141",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 8,
+   "well_id": "H9",
+   "data": 1.309251248,
+   "drug_Id": "DRUG_142",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 9,
+   "well_id": "H10",
+   "data": 1.020138203,
+   "drug_Id": "DRUG_143",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 10,
+   "well_id": "H11",
+   "data": 1.332701795,
+   "drug_Id": "DRUG_144",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 11,
+   "well_id": "H12",
+   "data": 1.328150196,
+   "drug_Id": "DRUG_145",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 12,
+   "well_id": "H13",
+   "data": 1.322792064,
+   "drug_Id": "DRUG_146",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 13,
+   "well_id": "H14",
+   "data": 1.304710733,
+   "drug_Id": "DRUG_147",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 14,
+   "well_id": "H15",
+   "data": 1.29168879,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 15,
+   "well_id": "H16",
+   "data": 1.313345536,
+   "drug_Id": "DRUG_148",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 16,
+   "well_id": "H17",
+   "data": 1.333510281,
+   "drug_Id": "DRUG_149",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 17,
+   "well_id": "H18",
+   "data": 1.284867428,
+   "drug_Id": "DRUG_150",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 18,
+   "well_id": "H19",
+   "data": 1.299400353,
+   "drug_Id": "DRUG_151",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 19,
+   "well_id": "H20",
+   "data": 1.327867176,
+   "drug_Id": "DRUG_152",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 20,
+   "well_id": "H21",
+   "data": 1.350018329,
+   "drug_Id": "DRUG_153",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 21,
+   "well_id": "H22",
+   "data": 1.308409889,
+   "drug_Id": "DRUG_154",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 7,
+   "column_i": 22,
+   "well_id": "H23",
+   "data": 0.762747875,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 7,
+   "column_i": 23,
+   "well_id": "H24",
+   "data": 1.224896135,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 8,
+   "column_i": 0,
+   "well_id": "I1",
+   "data": 0.717072409,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 8,
+   "column_i": 1,
+   "well_id": "I2",
+   "data": 1.321184739,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 8,
+   "column_i": 2,
+   "well_id": "I3",
+   "data": 1.279905523,
+   "drug_Id": "DRUG_155",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 3,
+   "well_id": "I4",
+   "data": 1.281019275,
+   "drug_Id": "DRUG_156",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 4,
+   "well_id": "I5",
+   "data": 1.318354554,
+   "drug_Id": "DRUG_157",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 5,
+   "well_id": "I6",
+   "data": 1.320909918,
+   "drug_Id": "DRUG_158",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 6,
+   "well_id": "I7",
+   "data": 1.285558316,
+   "drug_Id": "DRUG_159",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 7,
+   "well_id": "I8",
+   "data": 1.251801667,
+   "drug_Id": "DRUG_160",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 8,
+   "well_id": "I9",
+   "data": 1.307063333,
+   "drug_Id": "DRUG_161",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 9,
+   "well_id": "I10",
+   "data": 1.309456169,
+   "drug_Id": "DRUG_162",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 10,
+   "well_id": "I11",
+   "data": 1.331458022,
+   "drug_Id": "DRUG_163",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 11,
+   "well_id": "I12",
+   "data": 1.300971244,
+   "drug_Id": "DRUG_164",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 12,
+   "well_id": "I13",
+   "data": 1.283960784,
+   "drug_Id": "DRUG_165",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 13,
+   "well_id": "I14",
+   "data": 1.304254473,
+   "drug_Id": "DRUG_166",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 14,
+   "well_id": "I15",
+   "data": 1.309078484,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 15,
+   "well_id": "I16",
+   "data": 1.282425524,
+   "drug_Id": "DRUG_167",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 16,
+   "well_id": "I17",
+   "data": 1.311052569,
+   "drug_Id": "DRUG_168",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 17,
+   "well_id": "I18",
+   "data": 1.286269479,
+   "drug_Id": "DRUG_169",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 18,
+   "well_id": "I19",
+   "data": 1.168958508,
+   "drug_Id": "DRUG_170",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 19,
+   "well_id": "I20",
+   "data": 1.308243243,
+   "drug_Id": "DRUG_171",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 20,
+   "well_id": "I21",
+   "data": 1.326577751,
+   "drug_Id": "DRUG_172",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 21,
+   "well_id": "I22",
+   "data": 1.307451742,
+   "drug_Id": "DRUG_173",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 8,
+   "column_i": 22,
+   "well_id": "I23",
+   "data": 0.781047865,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 8,
+   "column_i": 23,
+   "well_id": "I24",
+   "data": 1.231082443,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 9,
+   "column_i": 0,
+   "well_id": "J1",
+   "data": 0.716591006,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 9,
+   "column_i": 1,
+   "well_id": "J2",
+   "data": 1.288078212,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 9,
+   "column_i": 2,
+   "well_id": "J3",
+   "data": 1.345731304,
+   "drug_Id": "DRUG_174",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 3,
+   "well_id": "J4",
+   "data": 1.305979666,
+   "drug_Id": "DRUG_175",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 4,
+   "well_id": "J5",
+   "data": 1.312147777,
+   "drug_Id": "DRUG_176",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 5,
+   "well_id": "J6",
+   "data": 1.247465388,
+   "drug_Id": "DRUG_177",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 6,
+   "well_id": "J7",
+   "data": 1.295295435,
+   "drug_Id": "DRUG_178",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 7,
+   "well_id": "J8",
+   "data": 1.317761458,
+   "drug_Id": "DRUG_179",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 8,
+   "well_id": "J9",
+   "data": 1.215236637,
+   "drug_Id": "DRUG_180",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 9,
+   "well_id": "J10",
+   "data": 1.294317363,
+   "drug_Id": "DRUG_181",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 10,
+   "well_id": "J11",
+   "data": 1.317333036,
+   "drug_Id": "DRUG_182",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 11,
+   "well_id": "J12",
+   "data": 1.310708104,
+   "drug_Id": "DRUG_183",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 12,
+   "well_id": "J13",
+   "data": 1.337130983,
+   "drug_Id": "DRUG_184",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 13,
+   "well_id": "J14",
+   "data": 1.304130473,
+   "drug_Id": "DRUG_185",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 14,
+   "well_id": "J15",
+   "data": 1.33397266,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 15,
+   "well_id": "J16",
+   "data": 1.338948671,
+   "drug_Id": "DRUG_186",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 16,
+   "well_id": "J17",
+   "data": 1.322719855,
+   "drug_Id": "DRUG_187",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 17,
+   "well_id": "J18",
+   "data": 1.318346798,
+   "drug_Id": "DRUG_188",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 18,
+   "well_id": "J19",
+   "data": 1.321003677,
+   "drug_Id": "DRUG_189",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 19,
+   "well_id": "J20",
+   "data": 1.314024493,
+   "drug_Id": "DRUG_190",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 20,
+   "well_id": "J21",
+   "data": 1.333794424,
+   "drug_Id": "DRUG_191",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 21,
+   "well_id": "J22",
+   "data": 1.317939117,
+   "drug_Id": "DRUG_192",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 9,
+   "column_i": 22,
+   "well_id": "J23",
+   "data": 0.760589117,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 9,
+   "column_i": 23,
+   "well_id": "J24",
+   "data": 1.257277639,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 10,
+   "column_i": 0,
+   "well_id": "K1",
+   "data": 0.723320571,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 10,
+   "column_i": 1,
+   "well_id": "K2",
+   "data": 1.299389002,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 10,
+   "column_i": 2,
+   "well_id": "K3",
+   "data": 1.302384727,
+   "drug_Id": "DRUG_193",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 3,
+   "well_id": "K4",
+   "data": 1.197330946,
+   "drug_Id": "DRUG_194",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 4,
+   "well_id": "K5",
+   "data": 1.178916136,
+   "drug_Id": "DRUG_195",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 5,
+   "well_id": "K6",
+   "data": 1.383859286,
+   "drug_Id": "DRUG_196",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 6,
+   "well_id": "K7",
+   "data": 1.296476596,
+   "drug_Id": "DRUG_197",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 7,
+   "well_id": "K8",
+   "data": 1.376164098,
+   "drug_Id": "DRUG_198",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 8,
+   "well_id": "K9",
+   "data": 0.942895578,
+   "drug_Id": "DRUG_199",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 9,
+   "well_id": "K10",
+   "data": 1.323819015,
+   "drug_Id": "DRUG_200",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 10,
+   "well_id": "K11",
+   "data": 1.275712859,
+   "drug_Id": "DRUG_201",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 11,
+   "well_id": "K12",
+   "data": 1.269336071,
+   "drug_Id": "DRUG_202",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 12,
+   "well_id": "K13",
+   "data": 1.287192243,
+   "drug_Id": "DRUG_203",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 13,
+   "well_id": "K14",
+   "data": 0.973246733,
+   "drug_Id": "DRUG_204",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 14,
+   "well_id": "K15",
+   "data": 1.320170793,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 15,
+   "well_id": "K16",
+   "data": 1.347614411,
+   "drug_Id": "DRUG_205",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 16,
+   "well_id": "K17",
+   "data": 1.343103969,
+   "drug_Id": "DRUG_206",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 17,
+   "well_id": "K18",
+   "data": 1.368332447,
+   "drug_Id": "DRUG_207",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 18,
+   "well_id": "K19",
+   "data": 1.334387436,
+   "drug_Id": "DRUG_208",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 19,
+   "well_id": "K20",
+   "data": 1.268701012,
+   "drug_Id": "DRUG_209",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 20,
+   "well_id": "K21",
+   "data": 1.307603525,
+   "drug_Id": "DRUG_210",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 21,
+   "well_id": "K22",
+   "data": 1.278505793,
+   "drug_Id": "DRUG_211",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 10,
+   "column_i": 22,
+   "well_id": "K23",
+   "data": 0.76994614,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 10,
+   "column_i": 23,
+   "well_id": "K24",
+   "data": 1.303072691,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 11,
+   "column_i": 0,
+   "well_id": "L1",
+   "data": 0.700999286,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 11,
+   "column_i": 1,
+   "well_id": "L2",
+   "data": 1.273666216,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 11,
+   "column_i": 2,
+   "well_id": "L3",
+   "data": 1.290275267,
+   "drug_Id": "DRUG_212",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 3,
+   "well_id": "L4",
+   "data": 1.309794205,
+   "drug_Id": "DRUG_213",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 4,
+   "well_id": "L5",
+   "data": 1.341664269,
+   "drug_Id": "DRUG_214",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 5,
+   "well_id": "L6",
+   "data": 1.361910753,
+   "drug_Id": "DRUG_215",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 6,
+   "well_id": "L7",
+   "data": 1.350236692,
+   "drug_Id": "DRUG_216",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 7,
+   "well_id": "L8",
+   "data": 1.234315589,
+   "drug_Id": "DRUG_217",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 8,
+   "well_id": "L9",
+   "data": 1.217142667,
+   "drug_Id": "DRUG_218",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 9,
+   "well_id": "L10",
+   "data": 1.337195311,
+   "drug_Id": "DRUG_219",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 10,
+   "well_id": "L11",
+   "data": 1.315904787,
+   "drug_Id": "DRUG_220",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 11,
+   "well_id": "L12",
+   "data": 1.107166805,
+   "drug_Id": "DRUG_221",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 12,
+   "well_id": "L13",
+   "data": 1.302457532,
+   "drug_Id": "DRUG_222",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 13,
+   "well_id": "L14",
+   "data": 1.17370827,
+   "drug_Id": "DRUG_223",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 14,
+   "well_id": "L15",
+   "data": 1.328895118,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 15,
+   "well_id": "L16",
+   "data": 1.314093383,
+   "drug_Id": "DRUG_224",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 16,
+   "well_id": "L17",
+   "data": 1.289020665,
+   "drug_Id": "DRUG_225",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 17,
+   "well_id": "L18",
+   "data": 1.29870388,
+   "drug_Id": "DRUG_226",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 18,
+   "well_id": "L19",
+   "data": 1.337592277,
+   "drug_Id": "DRUG_227",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 19,
+   "well_id": "L20",
+   "data": 1.295265515,
+   "drug_Id": "DRUG_228",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 20,
+   "well_id": "L21",
+   "data": 1.289431739,
+   "drug_Id": "DRUG_229",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 21,
+   "well_id": "L22",
+   "data": 1.318811447,
+   "drug_Id": "DRUG_230",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 11,
+   "column_i": 22,
+   "well_id": "L23",
+   "data": 0.755488398,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 11,
+   "column_i": 23,
+   "well_id": "L24",
+   "data": 1.262134735,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 12,
+   "column_i": 0,
+   "well_id": "M1",
+   "data": 0.746532879,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 12,
+   "column_i": 1,
+   "well_id": "M2",
+   "data": 1.291527389,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 12,
+   "column_i": 2,
+   "well_id": "M3",
+   "data": 1.257900545,
+   "drug_Id": "DRUG_231",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 3,
+   "well_id": "M4",
+   "data": 1.16631995,
+   "drug_Id": "DRUG_232",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 4,
+   "well_id": "M5",
+   "data": 1.139299555,
+   "drug_Id": "DRUG_233",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 5,
+   "well_id": "M6",
+   "data": 1.241013339,
+   "drug_Id": "DRUG_234",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 6,
+   "well_id": "M7",
+   "data": 1.295106142,
+   "drug_Id": "DRUG_235",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 7,
+   "well_id": "M8",
+   "data": 1.287727257,
+   "drug_Id": "DRUG_236",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 8,
+   "well_id": "M9",
+   "data": 1.104013811,
+   "drug_Id": "DRUG_237",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 9,
+   "well_id": "M10",
+   "data": 1.082184646,
+   "drug_Id": "DRUG_238",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 10,
+   "well_id": "M11",
+   "data": 1.207259146,
+   "drug_Id": "DRUG_239",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 11,
+   "well_id": "M12",
+   "data": 1.265137153,
+   "drug_Id": "DRUG_240",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 12,
+   "well_id": "M13",
+   "data": 1.303232174,
+   "drug_Id": "DRUG_241",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 13,
+   "well_id": "M14",
+   "data": 1.253839964,
+   "drug_Id": "DRUG_242",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 14,
+   "well_id": "M15",
+   "data": 1.301505716,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 15,
+   "well_id": "M16",
+   "data": 1.345447211,
+   "drug_Id": "DRUG_243",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 16,
+   "well_id": "M17",
+   "data": 1.3042315,
+   "drug_Id": "DRUG_244",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 17,
+   "well_id": "M18",
+   "data": 1.273435126,
+   "drug_Id": "DRUG_245",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 18,
+   "well_id": "M19",
+   "data": 1.306803368,
+   "drug_Id": "DRUG_246",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 19,
+   "well_id": "M20",
+   "data": 1.351591356,
+   "drug_Id": "DRUG_247",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 20,
+   "well_id": "M21",
+   "data": 1.282419019,
+   "drug_Id": "DRUG_248",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 21,
+   "well_id": "M22",
+   "data": 1.317842593,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 12,
+   "column_i": 22,
+   "well_id": "M23",
+   "data": 0.753794877,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 12,
+   "column_i": 23,
+   "well_id": "M24",
+   "data": 1.298187062,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 13,
+   "column_i": 0,
+   "well_id": "N1",
+   "data": 0.740158632,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 13,
+   "column_i": 1,
+   "well_id": "N2",
+   "data": 1.31687418,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 13,
+   "column_i": 2,
+   "well_id": "N3",
+   "data": 0.932696817,
+   "drug_Id": "DRUG_249",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 3,
+   "well_id": "N4",
+   "data": 1.308708025,
+   "drug_Id": "DRUG_250",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 4,
+   "well_id": "N5",
+   "data": 0.912884753,
+   "drug_Id": "DRUG_251",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 5,
+   "well_id": "N6",
+   "data": 1.166479569,
+   "drug_Id": "DRUG_252",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 6,
+   "well_id": "N7",
+   "data": 1.250773004,
+   "drug_Id": "DRUG_253",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 7,
+   "well_id": "N8",
+   "data": 1.330760555,
+   "drug_Id": "DRUG_254",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 8,
+   "well_id": "N9",
+   "data": 1.275331565,
+   "drug_Id": "DRUG_255",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 9,
+   "well_id": "N10",
+   "data": 0.900739506,
+   "drug_Id": "DRUG_256",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 10,
+   "well_id": "N11",
+   "data": 1.306371814,
+   "drug_Id": "DRUG_257",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 11,
+   "well_id": "N12",
+   "data": 1.290395043,
+   "drug_Id": "DRUG_258",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 12,
+   "well_id": "N13",
+   "data": 1.342429418,
+   "drug_Id": "DRUG_259",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 13,
+   "well_id": "N14",
+   "data": 1.299826241,
+   "drug_Id": "DRUG_260",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 14,
+   "well_id": "N15",
+   "data": 1.312404668,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 15,
+   "well_id": "N16",
+   "data": 1.251295337,
+   "drug_Id": "DRUG_261",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 16,
+   "well_id": "N17",
+   "data": 1.250342342,
+   "drug_Id": "DRUG_262",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 17,
+   "well_id": "N18",
+   "data": 1.318410251,
+   "drug_Id": "DRUG_263",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 18,
+   "well_id": "N19",
+   "data": 1.340988836,
+   "drug_Id": "DRUG_264",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 19,
+   "well_id": "N20",
+   "data": 1.304738761,
+   "drug_Id": "DRUG_265",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 20,
+   "well_id": "N21",
+   "data": 1.295774145,
+   "drug_Id": "DRUG_266",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 21,
+   "well_id": "N22",
+   "data": 1.321710898,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 13,
+   "column_i": 22,
+   "well_id": "N23",
+   "data": 0.775667544,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 13,
+   "column_i": 23,
+   "well_id": "N24",
+   "data": 1.256808081,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 14,
+   "column_i": 0,
+   "well_id": "O1",
+   "data": 0.736991098,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 14,
+   "column_i": 1,
+   "well_id": "O2",
+   "data": 1.280890309,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 14,
+   "column_i": 2,
+   "well_id": "O3",
+   "data": 1.355446118,
+   "drug_Id": "DRUG_267",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 3,
+   "well_id": "O4",
+   "data": 1.280559569,
+   "drug_Id": "DRUG_268",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 4,
+   "well_id": "O5",
+   "data": 1.00482043,
+   "drug_Id": "DRUG_269",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 5,
+   "well_id": "O6",
+   "data": 1.146686407,
+   "drug_Id": "DRUG_270",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 6,
+   "well_id": "O7",
+   "data": 0.989516831,
+   "drug_Id": "DRUG_271",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 7,
+   "well_id": "O8",
+   "data": 1.146339712,
+   "drug_Id": "DRUG_272",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 8,
+   "well_id": "O9",
+   "data": 1.324854706,
+   "drug_Id": "DRUG_273",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 9,
+   "well_id": "O10",
+   "data": 1.252041593,
+   "drug_Id": "DRUG_274",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 10,
+   "well_id": "O11",
+   "data": 1.313002628,
+   "drug_Id": "DRUG_275",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 11,
+   "well_id": "O12",
+   "data": 1.341612863,
+   "drug_Id": "DRUG_276",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 12,
+   "well_id": "O13",
+   "data": 1.297006706,
+   "drug_Id": "DRUG_277",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 13,
+   "well_id": "O14",
+   "data": 1.353155239,
+   "drug_Id": "DRUG_278",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 14,
+   "well_id": "O15",
+   "data": 1.290643316,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 15,
+   "well_id": "O16",
+   "data": 1.312014345,
+   "drug_Id": "DRUG_279",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 16,
+   "well_id": "O17",
+   "data": 1.353545232,
+   "drug_Id": "DRUG_280",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 17,
+   "well_id": "O18",
+   "data": 1.308548054,
+   "drug_Id": "DRUG_281",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 18,
+   "well_id": "O19",
+   "data": 1.320561601,
+   "drug_Id": "DRUG_282",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 19,
+   "well_id": "O20",
+   "data": 1.334192883,
+   "drug_Id": "DRUG_283",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 20,
+   "well_id": "O21",
+   "data": 1.28980095,
+   "drug_Id": "DRUG_284",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 21,
+   "well_id": "O22",
+   "data": 1.303478419,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 14,
+   "column_i": 22,
+   "well_id": "O23",
+   "data": 0.742516335,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 14,
+   "column_i": 23,
+   "well_id": "O24",
+   "data": 1.253762906,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 15,
+   "column_i": 0,
+   "well_id": "P1",
+   "data": 0.748714342,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 15,
+   "column_i": 1,
+   "well_id": "P2",
+   "data": 1.274164514,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ },
+ {
+   "row_i": 15,
+   "column_i": 2,
+   "well_id": "P3",
+   "data": 1.320274114,
+   "drug_Id": "DRUG_285",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 3,
+   "well_id": "P4",
+   "data": 1.331751097,
+   "drug_Id": "DRUG_286",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 4,
+   "well_id": "P5",
+   "data": 1.216672103,
+   "drug_Id": "DRUG_287",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 5,
+   "well_id": "P6",
+   "data": 1.210766151,
+   "drug_Id": "DRUG_288",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 6,
+   "well_id": "P7",
+   "data": 0.957913717,
+   "drug_Id": "DRUG_289",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 7,
+   "well_id": "P8",
+   "data": 1.264404509,
+   "drug_Id": "DRUG_290",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 8,
+   "well_id": "P9",
+   "data": 1.225080096,
+   "drug_Id": "DRUG_291",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 9,
+   "well_id": "P10",
+   "data": 1.300098013,
+   "drug_Id": "DRUG_292",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 10,
+   "well_id": "P11",
+   "data": 1.347749612,
+   "drug_Id": "DRUG_293",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 11,
+   "well_id": "P12",
+   "data": 1.288558512,
+   "drug_Id": "DRUG_294",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 12,
+   "well_id": "P13",
+   "data": 1.301990701,
+   "drug_Id": "DRUG_295",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 13,
+   "well_id": "P14",
+   "data": 1.176575915,
+   "drug_Id": "DRUG_296",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 14,
+   "well_id": "P15",
+   "data": 1.270903454,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 15,
+   "well_id": "P16",
+   "data": 1.259347255,
+   "drug_Id": "DRUG_297",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 16,
+   "well_id": "P17",
+   "data": 1.288700776,
+   "drug_Id": "DRUG_298",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 17,
+   "well_id": "P18",
+   "data": 1.314611172,
+   "drug_Id": "DRUG_299",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 18,
+   "well_id": "P19",
+   "data": 1.222676563,
+   "drug_Id": "DRUG_300",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 19,
+   "well_id": "P20",
+   "data": 1.267390753,
+   "drug_Id": "DRUG_301",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 20,
+   "well_id": "P21",
+   "data": 1.225510204,
+   "drug_Id": "DRUG_302",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 21,
+   "well_id": "P22",
+   "data": 1.270106965,
+   "drug_Id": "DMSO",
+   "well_type": "cpd"
+ },
+ {
+   "row_i": 15,
+   "column_i": 22,
+   "well_id": "P23",
+   "data": 0.78446882,
+   "drug_Id": "DRUG_1",
+   "well_type": "max"
+ },
+ {
+   "row_i": 15,
+   "column_i": 23,
+   "well_id": "P24",
+   "data": 1.230025655,
+   "drug_Id": "DMSO",
+   "well_type": "min"
+ }
+]
