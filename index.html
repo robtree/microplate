@@ -8,6 +8,8 @@
     :root {
       --white: #FFFFFF;
       --black: #000000;
+      --blue: #3071A9;
+      --orange: #FF6600;
       --grey-light: #CBCBCB;
       --grey-lighter: #ECECEC;
       --grey-lightest: #F7F7F7;
@@ -29,11 +31,8 @@
 
     .container {
       margin: 0 auto;
-      width: 1440px;
-    }
-
-    .main {
       padding: 0 1rem;
+      width: 1440px;
     }
 
     .footer {
@@ -58,14 +57,17 @@
       border: 1px solid var(--grey-light);
       border-radius: 50%;
       box-sizing: border-box;
+      cursor: pointer;
+      height: 60px;
       position: relative;
       text-align: center;
-      height: 60px;
+      transition: all 0.2s ease;
       width: calc(100% / 24);
     }
       .well.cpd { background-color: white; }
       .well.max { background-color: var(--grey-light); }
       .well.min { background-color: var(--grey-lighter); }
+      .well.active { box-shadow: inset 0 0 12px var(--orange); }
 
     .well-id {
       display: block;
@@ -80,14 +82,38 @@
     }
 
     .slide {
-      margin: 1rem 0;
+      margin: 2rem 0;
       text-align: center;
     }
     
-    .slide input {
+    input[type=range] {
       width: 100%;
+      margin: 1rem 0;
+      background-color: transparent;
+      -webkit-appearance: none;
     }
-
+      input[type=range]:focus {
+        outline: none;
+      }
+      input[type=range]::-webkit-slider-runnable-track {
+        background: var(--blue);
+        width: 100%;
+        height: 12px;
+        cursor: pointer;
+      }
+      input[type=range]::-webkit-slider-thumb {
+        background: var(--white);
+        border: 1px solid var(--black);
+        border-radius: 4px;
+        cursor: pointer;
+        height: 2.5rem;
+        margin-top: -1rem;
+        width: 1rem;
+        -webkit-appearance: none;
+      }
+      input[type=range]:focus::-webkit-slider-runnable-track {
+        background: #367ebd;
+      }
   </style>
 </head>
 
@@ -97,7 +123,7 @@
     <h1>Microplate Challenge</h1>
   </header>
 
-  <main class="container main">
+  <main class="container">
     <div id="app">
       <div class="slide">
         <p>Show only wells scoring below {{ visibilityThreshold.toFixed(2) }}</p>
@@ -106,11 +132,12 @@
       <ul class="microplate">
         <li v-for="well in microplate"
             class="well"
-            :class="well.well_type"
+            :class="[well.well_type, well.active ? 'active' : '']"
             :key="well.well_id"
-            :title="well.data">
+            :title="well.data"
+            @click="highlightWell(well.well_id)">
           <span class="well-id">{{ well.well_id }}</span>
-          <span class="well-drug" v-if="wellVisibility(well.data)">{{ stripDrugPrefix(well.drug_Id) }}</span>
+          <span class="well-drug" v-if="isWellDataVisible(well.data)">{{ stripDrugPrefix(well.drug_Id) }}</span>
         </li>
       </ul>
     </div>
@@ -136,7 +163,11 @@
         }
       },
       methods: {
-        wellVisibility(data) {
+        highlightWell(id) {
+          const well = this.microplate.find(w => w.well_id === id);
+          well.active = !well.active;
+        },
+        isWellDataVisible(data) {
           return data < this.visibilityThreshold;
         },
         stripDrugPrefix(id) {
@@ -146,7 +177,7 @@
       mounted() {
         fetch('./code_test.json')
           .then(response => response.json())
-          .then(data => this.microplate = data);
+          .then(data => this.microplate = data.map(obj=> ({ ...obj, active: false })));
       },
     })
   </script>
