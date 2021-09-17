@@ -126,7 +126,7 @@
     <div id="app">
       <div class="slide">
         <p>Show only wells scoring below {{ visibilityThreshold.toFixed(2) }}</p>
-        <input type="range" :min="Math.floor(minData * 100)" :max="Math.ceil(maxData * 100)" value="100" class="slider" v-model="threshold">
+        <input type="range" :min="Math.floor(minData * 100)" :max="Math.ceil(maxData * 100)" class="slider" v-model="threshold">
       </div>
       <ul class="microplate">
         <li v-for="well in microplate"
